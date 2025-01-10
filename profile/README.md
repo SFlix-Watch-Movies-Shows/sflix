@@ -43,7 +43,12 @@
 </ul>
 <h3><span>YouTube Video for Mobile App Features</span></h3>
 <figure class="media">
-    <oembed url="https://www.youtube.com/watch?v=wv-T1xTV_rU"></oembed>
+      <iframe  height="315"
+                                    src="https://www.youtube.com/embed/wv-T1xTV_rU?autoplay=0" frameborder="0"
+                                    loading="lazy" title="Sflix App Features - Official YouTube Video"
+                                    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen>
+                                </iframe>
 </figure>
 <p>&nbsp;</p>
 <hr>
