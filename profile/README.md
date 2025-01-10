@@ -43,7 +43,7 @@
 </ul>
 <h3><span>YouTube Video for Mobile App Features</span></h3>
 <figure class="media">
-     You can watch the youtube video by visiting this URL: https://www.youtube.com/embed/wv-T1xTV_rU
+     You can watch the youtube video by visiting this URL: [https://www.youtube.com/embed/wv-T1xTV_rU](https://www.youtube.com/watch?v=wv-T1xTV_rU)
                                     
 </figure>
 <p>&nbsp;</p>
