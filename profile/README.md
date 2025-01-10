@@ -1,4 +1,4 @@
-<h1 data-pm-slice="1 1 []"><span>Sflix - Watch Movies &amp; TV Shows Online Free</span></h1>
+<h1 data-pm-slice="1 1 []"><a target="_blank" rel="noopener noreferrer" href="https://www.watchbestmovies.com/"><span>Sflix - Watch Movies &amp; TV Shows Online Free</span></a></h1>
 <p><span>In the world of entertainment, Sflix stands out as a premium platform offering a seamless and ad-free way to enjoy your favorite movies and TV shows online for free. With an easy-to-navigate interface and a host of advanced features, Sflix is revolutionizing the way we consume digital entertainment. Whether you're a fan of blockbuster hits, indie movies, or binge-worthy TV series, Sflix has something for everyone.</span></p>
 <h2><span>Why Choose Sflix?</span></h2>
 <p><span>Sflix has quickly gained a reputation as one of the best platforms for streaming movies and TV shows online. Here’s why it’s the preferred choice for millions of users worldwide:</span></p>
